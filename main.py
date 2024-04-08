@@ -24,4 +24,4 @@ def main():
     print(circle_ratio) # 求められた円周率
 
 if __name__ == '__main__':
-    main()add 
+    main()
